@@ -18,7 +18,7 @@ if you want to know what I am more precisely, please go to
 
 * [Personality Interview](https://github.com/Kazuki-Shimizu513/kazuki.github.io/tree/main/PersonalityQuestions) 
 * [Github Repo](https://github.com/Kazuki-Shimizu513)
-* [LinedIn](https://www.linkedin.com/in/kazuki-shimizu-116a58273/)
+* [LinedIn](linkedin.com/in/一樹-kazuki-清水-shimizu-3726a9189)
 
 
 # [Quick Personality overview | Updated:2023/05/05]
