@@ -1,12 +1,19 @@
-# kazuki
+# kazuki Shimizu 清水 一樹　
+
+* [Github Repo](#)
+
 this is my personality and portfolios List
+このページは私の客観的人間性と主観的性格と少ないながらの制作物を記録したページです
+
+
 if you want to know me, I super recocmmend to watch my recent 3 projects and my personality picture.
+興味を持っていただけたならば、まずは3つの最近の制作物や公式の人格テスト結果からプロファイリングしていただけると幸いです。
+
 
 if you want to know what I am more precisely, please go to 
+さらに細かな情報は以下のリンクからおねがいいたします
+
 * [Personality Interview](#) 
-* [Daily Thing](#)
-* [Github Repo](#)
-* [Kaggle](#)
 * [LinedIn](#)
 
 # [Personality Picture  Updated:2023/02/01]
