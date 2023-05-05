@@ -2,19 +2,24 @@
 
 
 this is my personality and portfolios List
+
 このページは私の客観的人間性と主観的性格と少ないながらの制作物を記録したページです
 
 
+
 if you want to know me, I super recocmmend to watch my recent 3 projects and my personality picture.
+
 興味を持っていただけたならば、まずは3つの最近の制作物や公式の人格テスト結果からプロファイリングしていただけると幸いです。
 
 
 if you want to know what I am more precisely, please go to 
+
 さらに細かな情報は以下のリンクからおねがいいたします
 
 * [Personality Interview](https://github.com/Kazuki-Shimizu513/kazuki.github.io/tree/main/PersonalityQuestions) 
 * [Github Repo](https://github.com/Kazuki-Shimizu513)
 * [LinedIn](https://www.linkedin.com/in/kazuki-shimizu-116a58273/)
+
 
 # [Personality Picture  Updated:2023/02/01]
 ![](/images/matrix_results.png)
