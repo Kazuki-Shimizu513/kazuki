@@ -21,7 +21,7 @@ if you want to know what I am more precisely, please go to
 * [LinedIn](https://www.linkedin.com/in/kazuki-shimizu-116a58273/)
 
 
-# [Personality Picture  Updated:2023/05/05]
+# [Quick Personality overview | Updated:2023/05/05]
 ![](https://github.com/Kazuki-Shimizu513/kazuki.github.io/blob/main/images/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%202023-05-05%20182523.png)
 
 # [保留Project 2: Ball Image Classifier  Updated:2023/02/01](https://github.com/PlayingNumbers/ball_image_classifier) 
