@@ -5,6 +5,7 @@
 - Gender : Male
 - Native Lang. : Japanese
 - 2nd Lang : English
+- [16personality](https://www.16personalities.com/profiles/c49204f874449)
 
 # Desired Condition
 - Jobs : Data Scientist / Data Engineer / Machine Learning Engineer / Data Analyst / Software Engineer( web backend )
@@ -42,3 +43,5 @@
 
 
 For more inforation, Please check latest release
+
+
