@@ -1,6 +1,5 @@
 # kazuki Shimizu 清水 一樹　
 
-* [Github Repo](#)
 
 this is my personality and portfolios List
 このページは私の客観的人間性と主観的性格と少ないながらの制作物を記録したページです
@@ -13,8 +12,9 @@ if you want to know me, I super recocmmend to watch my recent 3 projects and my 
 if you want to know what I am more precisely, please go to 
 さらに細かな情報は以下のリンクからおねがいいたします
 
-* [Personality Interview](#) 
-* [LinedIn](#)
+* [Personality Interview](https://github.com/Kazuki-Shimizu513/kazuki.github.io/tree/main/PersonalityQuestions) 
+* [Github Repo](https://github.com/Kazuki-Shimizu513)
+* [LinedIn](https://www.linkedin.com/in/kazuki-shimizu-116a58273/)
 
 # [Personality Picture  Updated:2023/02/01]
 ![](/images/matrix_results.png)
