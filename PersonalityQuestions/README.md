@@ -5,7 +5,7 @@
 - Gender : Male
 - Native Lang. : Japanese
 - 2nd Lang : English
-- [16personality](https://www.16personalities.com/profiles/c49204f874449)
+- [16personality Results](https://www.16personalities.com/profiles/c49204f874449)
 - [マイナビ適性診断match+](https://github.com/Kazuki-Shimizu513/kazuki.github.io/blob/main/PersonalityQuestions/R14778908.pdf)
 - [Offerbox 適性診断結果](https://github.com/Kazuki-Shimizu513/kazuki.github.io/blob/main/PersonalityQuestions/OfferboxPersonalityResult.md)
 
