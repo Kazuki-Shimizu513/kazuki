@@ -8,6 +8,7 @@
 - [16personality Results](https://www.16personalities.com/profiles/c49204f874449)
 - [マイナビ適性診断match+](https://github.com/Kazuki-Shimizu513/kazuki.github.io/blob/main/PersonalityQuestions/R14778908.pdf)
 - [Offerbox 適性診断結果](https://github.com/Kazuki-Shimizu513/kazuki.github.io/blob/main/PersonalityQuestions/OfferboxPersonalityResult.md)
+- [Acaric 適性診断結果](https://github.com/Kazuki-Shimizu513/kazuki.github.io/blob/main/PersonalityQuestions/AcarikuPersonalityTestResult.md)
 
 # Desired Condition
 - Jobs : Data Scientist / Data Engineer / Machine Learning Engineer / Data Analyst / Software Engineer( web backend )
