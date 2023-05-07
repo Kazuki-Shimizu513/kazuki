@@ -6,6 +6,7 @@
 - Native Lang. : Japanese
 - 2nd Lang : English
 - [16personality Results](https://www.16personalities.com/profiles/c49204f874449)
+  - [personality factsheet](https://www.16personalities.com/static/factsheets/Commander%20(Assertive)%20(Male).pdf) 
 - [マイナビ適性診断match+](https://github.com/Kazuki-Shimizu513/kazuki.github.io/blob/main/PersonalityQuestions/R14778908.pdf)
 - [Offerbox 適性診断結果](https://github.com/Kazuki-Shimizu513/kazuki.github.io/blob/main/PersonalityQuestions/OfferboxPersonalityResult.md)
 - [Acaric 適性診断結果](https://github.com/Kazuki-Shimizu513/kazuki.github.io/blob/main/PersonalityQuestions/AcarikuPersonalityTestResult.md)
