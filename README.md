@@ -17,7 +17,7 @@ aim: just make my buddy to therapy my stressful heart.
 ## [project 2: stock Analysis](https://github.com/Kazuki-Shimizu513/StockTimeSeriesAnalysis0.git) 
 aim: practice time series analysis, but not figure out.
 
-![](/images/volume.png)
+![](/images/Volume.png)
 
 
 ## [Project 1: Gastrointestinal Anomaly Detection Project ](https://github.com/Kazuki-Shimizu513/AnomalyDetectionMedical) 
