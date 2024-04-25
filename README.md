@@ -9,9 +9,16 @@
 
 # portfolio List
 
-## [Project 2: my pet is Very cute](https://github.com/Kazuki-Shimizu513/DRL-unity-game-project.git) 
-Aim: just make my buddy to therapy my stressful heart.
+## [project 3: my pet is very cute](https://github.com/kazuki-shimizu513/drl-unity-game-project.git) 
+aim: just make my buddy to therapy my stressful heart.
 ![](/images/huggy.png)
+
+
+## [project 2: stock Analysis](https://github.com/Kazuki-Shimizu513/StockTimeSeriesAnalysis0.git) 
+aim: practice time series analysis, but not figure out.
+
+![](/images/volume.png)
+
 
 ## [Project 1: Gastrointestinal Anomaly Detection Project ](https://github.com/Kazuki-Shimizu513/AnomalyDetectionMedical) 
 Aim: Anomalies in gastrointestinal Image/Video are very hard to find for non-professional person.
